@@ -17,25 +17,4 @@ ConvoConnect is a real-time chat application that enables seamless communication
 - **Authentication:** JWT (JSON Web Tokens)
 - **Database:** MongoDB
 
-## Getting Started
 
-### Prerequisites
-
-- Node.js and npm installed
-- MongoDB instance running
-
-### Installation
-
-Clone the repository and install dependencies for both the client and server:
-
-```bash
-git clone https://github.com/aryanshukla25/ConvoConnect.git
-cd ConvoConnect
-
-# Install server dependencies
-cd server
-npm install
-
-# Install client dependencies
-cd ../client
-npm install
