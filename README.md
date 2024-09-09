@@ -26,8 +26,16 @@ ConvoConnect is a real-time chat application that enables seamless communication
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository and install dependencies for both the client and server:
 
-   ```bash
-   git clone https://github.com/aryanshukla25/ConvoConnect.git
-   cd ConvoConnect
+```bash
+git clone https://github.com/aryanshukla25/ConvoConnect.git
+cd ConvoConnect
+
+# Install server dependencies
+cd server
+npm install
+
+# Install client dependencies
+cd ../client
+npm install
